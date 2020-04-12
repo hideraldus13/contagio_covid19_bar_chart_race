@@ -1,6 +1,6 @@
 # Notebook com Bar Chart Race de Contágio de Covid19 por Estados do Brasil  
 
-Notebook .
+Notebook com dados atualizados diariamente e exportação em gif e mp4.
 
 <sub>Diga "Oi" <br> 
   <a href="https://medium.com/dev-in-anything"><img src="https://img.shields.io/badge/Medium-Dev%20in%20Anything-lightgrey.svg"/></a><br>
@@ -8,7 +8,7 @@ Notebook .
 </sub>
 
 ## :runner: Fast Track
-* Pré requisitos: <b>Python e [ffmpeg](https://ffmpeg.zeranoe.com/builds/ "Página de Download do ffmpeg")*(opcional)</b>
+* Pré requisitos: <b>Python e [ffmpeg*(opcional)](https://ffmpeg.zeranoe.com/builds/ "Página de Download do ffmpeg")</b>
 ```bash
 $ git clone https://github.com/hideraldus13/contagio_covid19_bar_chart_race.git
 $ cd ocr_python_fast_track
