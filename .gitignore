@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Arquivos exportados
+*.gif
+*.mp4
+
+/.vscode
