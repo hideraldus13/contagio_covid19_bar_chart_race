@@ -131,5 +131,6 @@ dmypy.json
 #Arquivos exportados
 *.gif
 *.mp4
+*.py
 
 /.vscode
