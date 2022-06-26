@@ -3,8 +3,9 @@
 Notebook com dados atualizados diariamente e exportação em gif e mp4.
 
 <sub>Diga "Oi" <br> 
-  <a href="https://medium.com/dev-in-anything"><img src="https://img.shields.io/badge/Medium-Dev%20in%20Anything-lightgrey.svg"/></a><br>
-  <a href="https://www.linkedin.com/in/hideraldoluis/"><img src="https://img.shields.io/badge/LinkedIn-%40hideraldoluis_-blue.svg"/></a>
+    [<img src = "https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/hideraldus13)
+    [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hideraldoluis/) 
+    [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/hideraldojunior/) 
 </sub>
 
 ## :runner: Fast Track
